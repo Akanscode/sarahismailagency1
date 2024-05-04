@@ -4,7 +4,7 @@ import { aboutusdata } from './data'
 const AboutUs = () => {
     return (
         <div className="container mx-auto w-full">
-            <div className='relative py-16 lg:py-20 mx-auto'>
+            <div className="relative py-16 lg:py-20 mx-auto">
                  <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
                 <div>
                     <p className="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-green-900 uppercase rounded-full bg-green-400">
@@ -37,7 +37,7 @@ const AboutUs = () => {
                             />
                         </svg>
                         <span className="relative">The</span>
-                    </span>{' '}
+                    </span>
                     Number Book Promotion Agency
                 </h2>
                 <p className="text-base text-gray-700 md:text-lg">
