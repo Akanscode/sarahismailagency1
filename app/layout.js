@@ -1,7 +1,7 @@
 
 import Footer from "./components/footer";
 import Navbar from "./components/navbar";
-import "/app/globals.css"
+import './globals.css'
 
 
 
