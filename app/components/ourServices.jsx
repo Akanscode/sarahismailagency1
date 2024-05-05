@@ -12,7 +12,7 @@ const OurServices = () => {
                             Our  Services
                         </h2>
                         <p className="text-base text-gray-700 md:text-lg">
-                            We're committed to delivering top-notch services that empower you to achieve your goals.
+                            We are committed to delivering top-notch services that empower you to achieve your goals.
                             Our expert guidance paves the way for success,
                             enhancing the visibility and growth of your business with personalized
                             strategies tailored just for you.
