@@ -1,6 +1,15 @@
-import React from 'react'
+'use client'
 import Link from 'next/link'
+import React, { useState, useEffect } from "react";
 const Footer = () => {
+    const [date, setDate] = useState();
+
+  const getYear = () => setDate(new Date().getFullYear());
+
+  useEffect(() => {
+    getYear();
+  }, []);
+
     return (
         <div className=' bg-black w-full '>
             <div className="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
@@ -130,7 +139,7 @@ const Footer = () => {
                 </div>
                 <div className="flex flex-col-reverse justify-between pt-5 pb-10 border-t lg:flex-row">
                     <p className="text-sm text-gray-100">
-                        © Copyright 2024 sarahismailagency. All rights reserved.
+                        Copyright &copy; {date} sarahismailagency. All rights reserved.
                     </p>
                 </div>
             </div>

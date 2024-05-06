@@ -6,9 +6,9 @@ const Hero = () => {
         <div className="relative ">
             <Image
                 src="/assets/images/heroimage"
-                className="absolute inset-0 object-cover w-full h-full"
-                width={1000}
-                height={2000}
+                className="absolute inset-0 object-cover"
+                width={910}
+                height={910}
                 alt="heeroimage"
               
             />
