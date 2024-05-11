@@ -1,7 +1,10 @@
 import AboutUs from "./components/aboutus";
+import BenefitOfBook from "./components/benefit";
 import Hero from "./components/hero";
-import OurServices from "./components/ourServices";
-import Package from "./components/package";
+import HowToMarket from "./components/howtomarket";
+//import OurServices from "./components/howtomarket";
+import OurServicesices from "./components/ourservices";
+//import Package from "./components/ourservices";
 import Testimonial from "./components/testomanal";
 
 export const metadata = {
@@ -13,9 +16,11 @@ export default function Home() {
   return (
    <>
       <Hero />
-      <OurServices />
-      <AboutUs />
-      <Package />
+      <BenefitOfBook />
+       <AboutUs />
+      <HowToMarket />
+      <OurServicesices/>
+     
       <Testimonial/>
    </>
   );

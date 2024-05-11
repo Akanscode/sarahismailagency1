@@ -1,4 +1,38 @@
-import Testimonial from "./testomanal"
+export const ourBenefitList = [
+    {
+        id: 1,
+        text: "Increase visibility and exposure"
+    },
+     {
+        id: 2,
+        text: "Boost online presence and traffic"
+    },
+      {
+        id: 3,
+        text: "Generate buzz and excitement"
+    },
+       {
+        id: 4,
+        text: "Build credibility and reputation"
+    },
+        {
+        id: 5,
+        text: "Expand your network"
+    },
+         {
+        id: 6,
+        text: "Create a lasting impact"
+    },
+          {
+        id: 7,
+        text: "Expand your connections"
+    },
+           {
+        id: 8,
+        text: "Create your network"
+    },
+        
+]
 
 export const ourServicesList = [
     {
@@ -39,28 +73,28 @@ export const aboutusdata = [
     {
         id: 1,
         desc: "Strategic Outreach",
-        text: "Targeted engagement with readers, book clubs, bloggers, and influencers."
+        text: "Our strategies are built on a foundation of strategic thinking. We analyze market trends, identify niche opportunities, and craft promotion plans that align with your book's unique strengths."
 
 
     },
     {
         id: 2,
-        desc: "Viral Impact",
-        text: " I'll make your book go viral, reaching book lovers and driving sales."
+        desc: "Proven Track Record",
+        text: " With years of experience in the publishing and promotion industry, Sarah Ismail Agency has a proven track record of success. We have helped numerous authors achieve their goals, whether it's gaining recognition, winning awards, or reaching bestseller status. When you choose us, you're choosing a team that delivers results."
 
 
     },
     {
         id: 3,
-        desc: "Consistent Traffic",
-        text: "Engaging genuine interest for a steady flow of traffic and sales."
+        desc: "Personalized Attention",
+        text: "Your book is not just another project to us; it's a passion. We provide personalized attention to every author and book we work with, ensuring that your vision and goals are at the forefront of our efforts. Our dedicated team collaborates closely with you to bring your book promotion dreams to life."
 
 
     },
     {
         id: 4,
-        desc: "Proven Results",
-        text: "Providing proof of promotion and detailed analyses for increased sales and traffic."
+        desc: "Transparent Communication",
+        text: "Communication is key to a successful partnership. We believe in transparent communication every step of the way, keeping you updated on progress, results, and next steps. You'll have full visibility into our promotion strategies and their impact on your book's success."
 
 
     },
