@@ -8,7 +8,7 @@ const HowToMarket = () => {
                 <div className="grid gap-5 row-gap-10 lg:grid-cols-2">
                 <div className="flex flex-col justify-center">
                     <div className="max-w-xl mb-6">
-                        <h2 className="max-w-lg mb-6 font-sans text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl sm:leading-none">
+                        <h2 className="max-w-lg mb-6 font-sans text-xl font-bold tracking-tight text-gray-900 sm:text-2xl sm:leading-none">
                            How Do You Market your Book to the Media?
                         </h2>
                         <p className="text-base text-gray-700 md:text-lg">
