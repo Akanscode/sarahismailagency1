@@ -40,10 +40,10 @@ const OurServices = () => {
           quick way to be visible to all the audience 
         </h2>
         <p className="text-base text-gray-700 md:text-lg">
-          We're a forward-thinking digital marketing agency dedicated to helping
+          We are a forward-thinking digital marketing agency dedicated to helping
            businesses thrive in the online world. With a passion for storytelling 
            and a commitment to excellence, our team of experts crafts tailored 
-            solutions to drive your brand's growth and success. 
+            solutions to drive your brands growth and success. 
                                
         </p>
       </div>

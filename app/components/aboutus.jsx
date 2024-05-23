@@ -45,7 +45,7 @@ const AboutUs = () => {
                         <p className="text-base text-gray-700 md:text-md text-center">
                             Welcome to Sarah Ismail Agency, where we specialize
                             in elevating authors and their books to new heights
-                            of success. Our agency is founded on the belief that every author's
+                            of success. Our agency is founded on the belief that every authors
                             voice deserves to be heard and every book deserves its moment in the spotlight.
                         </p>
                         <div className="pt-6 mb-4">
@@ -67,7 +67,7 @@ const AboutUs = () => {
                                     <p className="text-sm text-gray-900 text-justify">
                                         <span className=" font-bold text-sm ">Mission: <br /></span>
                                         In a crowded market, we bridge the gap between authors and readers by
-                                        elevating each book's presence, ensuring it connects deeply with its
+                                        elevating each books presence, ensuring it connects deeply with its
                                         intended audience and resonates beyond expectations.
                                     </p>
                                 </div>
