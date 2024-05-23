@@ -42,12 +42,11 @@ const Footer = () => {
                         </Link>
                         <div className="mt-6 lg:max-w-sm">
                             <p className="text-sm text-gray-100">
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                                accusantium doloremque laudantium, totam rem aperiam.
+                                We are committed to delivering top-notch services that empower you to achieve your goals. 
                             </p>
                             <p className="mt-4 text-sm text-gray-100">
-                                Eaque ipsa quae ab illo inventore veritatis et quasi architecto
-                                beatae vitae dicta sunt explicabo.
+                                Our expert guidance paves the way for success, enhancing the visibility and growth
+                                 of your business with personalized strategies tailored just for you.
                             </p>
                         </div>
                     </div>
@@ -63,7 +62,6 @@ const Footer = () => {
                                 title="Our phone"
                                 className="transition-colors duration-300 text-green-200"
                             >
-                                850-123-5021
                             </Link>
                         </div>
                         <div className="flex">
@@ -74,7 +72,7 @@ const Footer = () => {
                                 title="Our email"
                                 className="transition-colors duration-300 text-green-200"
                             >
-                                info@lorem.mail
+                                sarahismail00019@gmail.com
                             </Link>
                         </div>
                     </div>
@@ -84,7 +82,7 @@ const Footer = () => {
                         </span>
                         <div className="flex items-center mt-1 space-x-3">
                             <Link
-                                href="/"
+                                href="link:https://twitter.com/sarah_isma88900"
                                 className="text-gray-100 transition-colors duration-300 "
                             >
                                 <svg
@@ -100,7 +98,7 @@ const Footer = () => {
                                 </svg>
                             </Link>
                             <Link
-                                href="/"
+                                href="link:https://www.instagram.com/mellisaalexander77/"
                                 className="text-gray-100 transition-colors duration-300 "
                             >
                                 <svg
@@ -117,7 +115,7 @@ const Footer = () => {
                                 </svg>
                             </Link>
                             <Link
-                                href="/"
+                                href="facebook:https://www.facebook.com/profile.php?id=61554604469504"
                                 className="text-gray-100 transition-colors duration-300"
                             >
                                 <svg
@@ -131,10 +129,7 @@ const Footer = () => {
                                 </svg>
                             </Link>
                         </div>
-                        <p className="mt-4 text-sm text-gray-100">
-                            Bacon ipsum dolor amet short ribs pig sausage prosciutto chicken
-                            spare ribs salami.
-                        </p>
+                        
                     </div>
                 </div>
                 <div className="flex flex-col-reverse justify-between pt-5 pb-10 border-t lg:flex-row">

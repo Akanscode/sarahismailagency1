@@ -30,9 +30,7 @@ const Hero = () => {
                                <span className='text-green-400'>Agency</span> 
                             </h1>
                             <p className="max-w-xl mb-4 text-base text-gray-200 md:text-lg">
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                                accusantium doloremque laudan, totam rem aperiam, eaque ipsa
-                                quae.
+                               Welcome to the Sarah Ismail Agency, where creativity meets innovation. 
                             </p>
                             <Link
                                 href="/"

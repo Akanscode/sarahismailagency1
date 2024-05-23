@@ -37,11 +37,14 @@ const OurServices = () => {
             </svg>
             <span className="relative">The</span>
           </span>{' '}
-          quick, brown fox jumps over a lazy dog
+          quick way to be visible to all the audience 
         </h2>
         <p className="text-base text-gray-700 md:text-lg">
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque rem aperiam, eaque ipsa quae.
+          We're a forward-thinking digital marketing agency dedicated to helping
+           businesses thrive in the online world. With a passion for storytelling 
+           and a commitment to excellence, our team of experts crafts tailored 
+            solutions to drive your brand's growth and success. 
+                               
         </p>
       </div>
           <div className="grid gap-8 row-gap-10 lg:grid-cols-2">
