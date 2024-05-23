@@ -36,7 +36,7 @@ const OurServices = () => {
               />
             </svg>
             <span className="relative">The</span>
-          </span>{' '}
+          </span>
           quick way to be visible to all the audience 
         </h2>
         <p className="text-base text-gray-700 md:text-lg">
